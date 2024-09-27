@@ -1,1 +1,1 @@
-select 1 ID, 'Ruchira' NAME, 'Melbourne' CITY
+select 1 id, 'Ruchira' name, 'Melbourne' city
