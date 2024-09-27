@@ -1,0 +1,1 @@
+select 1 empid, 'Ruchira' name, 'Colombo' city
